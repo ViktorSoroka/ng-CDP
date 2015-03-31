@@ -1,0 +1,21 @@
+{
+  "name": "angular-app",
+  "version": "0.0.0",
+  "authors": [
+    "Yuliia Ivanova <Yuliia_Ivanova@epam.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.4",
+    "angularjs": "~1.3.15",
+    "angular-resource": "~1.3.15",
+    "angular-sanitize": "~1.3.15"
+  }
+}
