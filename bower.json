@@ -1,9 +1,6 @@
 {
-  "name": "angular-app",
+  "name": "ng-cdp",
   "version": "0.0.0",
-  "authors": [
-    "Yuliia Ivanova <Yuliia_Ivanova@epam.com>"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
